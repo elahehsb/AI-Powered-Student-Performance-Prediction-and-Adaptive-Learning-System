@@ -1,0 +1,8 @@
+{
+  "_id": "student_interactions",
+  "student_id": 123,
+  "timestamp": 1622547800,
+  "activity": "quiz",
+  "content_id": 45,
+  "score": 85.5
+}
