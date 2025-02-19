@@ -1,4 +1,4 @@
-# AI-Powered-Student-Performance-Prediction-and-Adaptive-Learning-System
+# AI-Powered Student Performance Prediction and Adaptive Learning System
 
 ### Overview
 This project aims to develop an AI-powered system for predicting student performance and providing adaptive learning recommendations. The system will use machine learning algorithms to analyze student data and offer personalized content and feedback to enhance the learning experience. The project focuses on using open-source tools and a Linux-based environment to build a scalable and efficient solution.
